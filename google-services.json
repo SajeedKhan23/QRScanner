@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916436115154",
+    "project_id": "otpauth-85235",
+    "storage_bucket": "otpauth-85235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916436115154:android:71b75a8982fea1cc63570b",
+        "android_client_info": {
+          "package_name": "com.sajeed03.QRApp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu3Cfb8honcPJeriobLJvin_RlFdoT5OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
